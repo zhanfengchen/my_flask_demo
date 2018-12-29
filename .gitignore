@@ -1,0 +1,29 @@
+##ideal
+*.idea
+## eclipse
+*.pydevproject
+.project
+.metadata
+## other
+*.pyc
+__pycache__
+tmp/
+*.tmp
+*.bak
+*.tar
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+##log and out
+*.arpa
+*.log
+*.out
+##model files
+*.model
+*.svm
+
+##
+.ipynb_checkpoints
